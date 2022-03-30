@@ -1,0 +1,33 @@
+header{
+    background-color: #F7DC6F;
+}
+
+.quem-somos{
+    background-color: #82E0AA;
+}
+
+.padding{
+    padding: 50px 0 50px 0;
+}
+
+.parceiros{
+    background-color: #DAF7A6;
+}
+
+#parceiros .col-md-4 img{
+    width: 100%;
+}
+
+#servicos{
+    background-color: #FFC300;
+}
+
+#servicos .col-lg-6 img{
+    max-width: 100%;
+    height: 400px;
+}
+
+.bg-footer{
+    background-color: #333;
+    color: #fff;
+}
